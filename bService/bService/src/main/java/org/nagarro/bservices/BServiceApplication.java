@@ -9,7 +9,6 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 public class BServiceApplication {
 
 	public static void main(String[] args) {
-//		System.out.println("Rohan");
 		SpringApplication.run(BServiceApplication.class, args);
 	}
 }
